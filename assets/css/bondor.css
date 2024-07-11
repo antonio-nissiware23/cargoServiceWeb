@@ -3510,7 +3510,7 @@ html.lenis {
   border-top: 40px solid #ad0b12;
 }
 
-.services-one__icon span {
+.services-one__icon span{
   position: relative;
   display: inline-block;
   font-size: 48px;
@@ -3520,7 +3520,7 @@ html.lenis {
   transform: scale(1);
 }
 
-.services-one__single:hover .services-one__icon span {
+.services-one__single:hover .services-one__icon span{
   transform: scale(0.9);
   color: var(--bondor-white);
 }
