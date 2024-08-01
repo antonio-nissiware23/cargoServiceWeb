@@ -4373,7 +4373,8 @@ html.lenis {
 }
 
 .contact-one__input-box input[type="text"],
-.contact-one__input-box input[type="email"] {
+.contact-one__input-box input[type="email"],
+.contact-one__input-box textarea[type="text"] {
   height: 58px;
   width: 100%;
   border: 0;
